@@ -1,0 +1,24 @@
+{
+  "about": {
+    "description": {
+      "html": "<p>Ryan O’Shea lives in Berlin, and is learning and development professional with over 10 years of management experience.</p><p>He has recruited, hired, onboarded, trained and developed teachers, service staff and consultants, opened schools and won awards.</p><p>After 10,000 hours of teaching and training, he has forked his career and is learning a new craft...</p>"
+    },
+    "overview": [
+      {
+        "stage": "New Career",
+        "name": "Web Development",
+        "detail": "- since May 2018"
+      },
+      {
+        "stage": "Previous Career",
+        "name": "Language School Management",
+        "detail": "- a decade of experience"
+      },
+      {
+        "stage": "Studied",
+        "name": "Architecture",
+        "detail": "- Bsc University of Strathclyde"
+      }
+    ]
+  }
+}

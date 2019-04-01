@@ -1,4 +1,5 @@
 exports.welcomeMessage = async function (req, res)  {
+  console.log("welcome message");
   res.send("Hello! Welcome to the resume API for your applicant")
 };
 
