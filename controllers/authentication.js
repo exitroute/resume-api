@@ -12,7 +12,6 @@ exports.authenticate = async function (req, res) {
   try {
 
     console.log("token", req.headers.authorization)
-    console.log(resume);
     const token = req.headers.authorization
 
     if (token === "Bearer 1973") {
