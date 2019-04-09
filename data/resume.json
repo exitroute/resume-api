@@ -159,5 +159,152 @@
         ]
       }
     ]
+  },
+  "managementExperience": {
+    "description": {
+      "html": "<p><a href=\"https://www.wallstreetenglish.com\" target=\"_blank\">Wall Street English</a> (WSE) was an elearning and blended learning language teaching service active in Germany from 1995 until December 2016, owned by Pearson Education.</p><p class=\"text-wse\">Approximately, 18,000 English language learners attended the five schools in Berlin from 2001 until 2016, with an annual €2.7m.</p><p class=\"text-wse\">School self-portrait here: <a href=\"https://vimeo.com/81486090\" target=\"_blank\">Berlin Lesson 1.</a></p>"
+    },
+    "chapters": [
+      {
+        "name": "IV",
+        "id": "partFour",
+        "date": "<i>February 2014 – December 2016</i><br>",
+        "position": "<b>School and Service Manager</b><br>",
+        "organisation": "Pearson Education<br>",
+        "location": "Berlin, WSE Mitte - Flagship Centre<br>",
+        "highlight": "<span class=\"man-exp-highlight\">Best WSE School Manager<br>Germany<br>2015</span>"
+      },
+      {
+        "name": "III",
+        "id": "partThree",
+        "date": "<i>October 2012 – January 2014</i><br>",
+        "position": "<b>School and Service Manager</b><br>",
+        "organisation": "Pearson Education<br>",
+        "location": "Berlin, Berlin, WSE Charlottenburg<br>",
+        "highlight": "<span class=\"man-exp-highlight\">Awarded 3 month sabbatical.</span>"
+      },
+      {
+        "name": "II",
+        "id": "partTwo",
+        "date": "<i>September 2010 – September 2012</i><br>",
+        "position": "<b>School and Service Manager</b><br>",
+        "organisation": "WSI Education GmbH<br>",
+        "location": "Berlin, WSE Charlottenburg and Schöneberg<br>",
+        "highlight": "<ul class=\"man-exp-highlight list-unstyled\"><li>Full-time manager in two schools</li><li>20 staff, 800 students.</li></ul>"
+      },
+      {
+        "name": "I",
+        "id": "partOne",
+        "date": "<i>September 2005 – September 2010</i><br>",
+        "position": "<b>School and Service Manager</b><br>",
+        "organisation": "Pro Education GmbH<br>",
+        "location": "Berlin, WSE Charlottenburg, Steglitz and Schöneberg",
+        "highlight": "<ul class=\"man-exp-highlight list-unstyled\"><li>Best WSE School Manager in 2007</li><li>Best WSE School in 2006 and 2005</li><li>Opened and Managed WSE Steglitz &amp; Schöneberg in 2008</li></ul>"
+      }
+    ],
+    "tasksAndResponsibilities": [
+      {
+        "name": "Learning and Development",
+        "id": "learningAndDevelopment",
+        "details": [
+          "<b>Responsibilities:</b> staff development, continuous improvement, staff onboarding, new product and process training, L&amp;D objectives, school culture.",
+          "<b>Used</b> Pearson LMS, performance reviews, SMART goals, coaching, mentoring, workshops and meetings,service design thinking and sprints.."
+        ]
+      },
+      {
+        "name": "Recruitment",
+        "id": "recruitment",
+        "details": [
+          "<b>Responsibilities:</b> candidate experience, profile development, resume screening, 1st and 2nd interviews, final selection, candidate feedback.",
+          "<b>Recruited</b> and hired 50 staff members (teachers, trainers and service support)."
+        ]
+      },
+      {
+        "name": "Community and Culture",
+        "id": "community",
+        "details": [
+          "<b>Responsibilities:</b> weekly, monthly and annual in-centre and out-centre events; centre level social media (deleted Jan 2017); and newsletters."
+        ]
+      },
+      {
+        "name": "Customer Success and Experience",
+        "id": "customer",
+        "details": [
+          "<b>Responsibilities:</b> customers meeting learning objectives.",
+          "<b>Led</b> the service department, set and tracked onboarding and follow up objectives, 121 troubleshooting, service development and design, scheduled and planned by the month, quarter and year."
+        ]
+      },
+      {
+        "name": "Compliance and Reporting",
+        "id": "reporting",
+        "details": [
+          "<b>Responsibilities:</b> inventory, learner and service KPI, QMS analysis, implementing Pearson policies (efficacy, anti-corruption anti-discrimination), preparing and passing external audits for Arbeitsagentur, GutCert, and Pearson"
+        ]
+      },
+      {
+        "name": "Teaching",
+        "id": "teaching",
+        "details": [
+          "<b>Led</b> the line by acting as the senior teacher at the school developing lesson and course plans, and testing material.",
+          "<b>Taught</b> in-company group, standard and customised courses of across Berlin, Brandenburg, Saxony.",
+          "<b>Customers:</b> Siemens, Nokia, Berlin Partner, Landesbank Brandenburg, Sodexo, Takraf Tenova, Fyber, Sparkasse, Mercedes Benz Bank, Netto, Rieck Logistics."
+        ]
+      },
+      {
+        "name": "Sales",
+        "id": "sales",
+        "details": [
+          "<b>Responsible</b> for meeting 30% - 50% of centre sales target through B2C contract renewals and referrals."        ]
+      }
+    ]
+  },
+  "educationAndTraining": {
+    "description": {
+      "html": "<p>From an education in design, to training in performance, the skills to produce broadcast quality video.</p>"
+    },
+    "courses": [
+      {
+        "label": "Video Production",
+        "id": "videoProduction",
+        "title": "NVQ Video Production",
+        "date": "<i>January 1999 - July 1999</i>",
+        "organisation": "Video Information Project",
+        "location": "Glasgow, United Kingdom",
+        "outcome": "<b>Learned</b> video production in a foundation course with practical training on video production, including workshops on:",
+        "details": [
+          "Lighting, sound recording, camera use, recording formats.", 
+          "Location and studio shooting, reconnaissance, scheduling, logistics.",
+          "Conceptualising, writing and scripts, storyboarding, editing."
+        ]
+      },
+      {
+        "label": "Acting",
+        "id": "acting",
+        "title": "Acting Workshop",
+        "date": "<i>March 1998 - February 1999</i>",
+        "organisation": "The Actor’s Workshop",
+        "location": "Glasgow, United Kingdom",
+        "outcome": "<b>Learned</b> to act in a Meisner technique acting workshop run by <a href=\"https://www.scotlandsartists.com/sales/robert_parsifal_finch\">Robert Parsifal Finch.</a>",
+        "details": [
+          "Imagination, voice and speech, physical training. 3 act play performance.", 
+          "Graduates included <a href=\"https://en.wikipedia.org/wiki/Rory_McCann\">Rory McCann</a>(Sandor Clegane, Game of Thrones)."
+        ]
+      },
+      {
+        "label": "Architecture",
+        "id": "architecture",
+        "title": "BSc Architecture",
+        "date": "<i>October 1992 - April 1998</i>",
+        "organisation": "University of Strathclyde, Glasgow",
+        "location": "Glasgow, United Kingdom",
+        "outcome": "<b>Studied</b> and practiced building design from the experience and needs of users, clients, stakeholders, and city residents.",
+        "details": [
+          "<b>Completed</b> 20 building design projects use these techniques<br>",
+          "Analysis of assignment, design brief and construction site.",
+          "Conceptualisation, ideation and assessment",
+          "Detailing according to assignments. Finalisation, draughting and presentation."
+        ]
+      }
+    ]
   }
 }
