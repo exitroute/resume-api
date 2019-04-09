@@ -20,5 +20,144 @@
         "detail": "- Bsc University of Strathclyde"
       }
     ]
+  },
+  "skillsAndTools": {
+    "description": {
+      "html": "<p class=\"mb-4\">Ryan brings the following set of <b>skills</b> and <b>tools</b> to the workplace:</p>"
+    },
+    "detail": [
+      {
+        "name": "Development",
+        "descriptors": [
+          "strategy",
+          "events",
+          "ideas",
+          "culture",
+          "teams",
+          "people"
+        ],
+        "description": {
+          "html": ""
+        }
+      },
+      {
+        "name": "Management",
+        "descriptors": [
+          "execution",
+          "planning",
+          "alignment",
+          "persuasion",
+          "accountability"
+        ],
+        "description": {
+          "html": ""
+        }
+      },
+      {
+        "name": "Design",
+        "descriptors": [],
+        "description": "Experiences and Services for:<br> Learning,<br> Customers,<br> Employees"
+      },
+      {
+        "name": "Technology",
+        "descriptors": [
+          "HTML5 & CSS3",
+          "JavaScript",
+          "React",
+          "Node",
+          "Express",
+          "Mongo",
+          "Git"
+        ],
+        "description": {
+          "html": ""
+        }
+      },
+      {
+        "name": "Methods",
+        "descriptors": [
+          "Design Thinking",
+          "Project Based Learning",
+          "SMART Goals",
+          "OKRs",
+          "Agile"
+        ],
+        "description": {
+          "html": ""
+        }
+      },
+      {
+        "name": "Languages",
+        "descriptors": [],
+        "description": ""
+      }
+    ]
+  },
+  "recentWork": {
+    "description": {
+      "html": "<p class=\"mb-4\">From July 2016 until May 2018, Ryan took time to discover the right path for the next chapter of his working life.</p><p>He discovered that the struggle was real, and which skills he needed for the next phase of his working life.</p>"
+    },
+    "activities": [
+      {
+        "name": "Enterprise",
+        "id": "enterprise",
+        "details": [
+          {
+            "description": "<b>Founded</b> language training business",
+            "date": "January 2018 to June 2018"
+          },
+          {
+            "description": "<b>Co-Founded</b> language service <a href=\"https://www.lostintranslation.de\">Lost In Translation</a> in Hamburg.",
+            "date": "January 2018 to June 2018"
+          }
+        ]
+      },
+      {
+        "name": "Learning and Training",
+        "id": "learningAndTraining",
+        "details": [
+          {
+            "description": "<b>Learning</b> web development at <a href=\"https://www.digitalcareerinstitute.de\">Digital Career Institute</a>, Berlin.",
+            "date": "from July 2018"
+          },
+          {
+            "description": "<b>Completed</b> the Foundations Learner Experience Design with NovoEd: learn.novoed.com",
+            "date": "April to June 2018"
+          },
+          {
+            "description": "<b>Trained</b> German to B2 with GLS Berlin",
+            "date": "September to November 2017"
+          }
+        ]
+      },
+      {
+        "name": "Production",
+        "id": "production",
+        "details": [
+          {
+            "description": "<b>Created and produced</b> the <a href=\"https://www.facebook.com/pg/route.exit/photos/?ref=page_internal\" target=\"_blank\">“Exit Through the Language School”</a> series of events.",
+            "date": "July - December 2016"
+          },
+          {
+            "description": "<b>Performed</b> live video mixing with <a href=\"https://www.instagram.com/p/BmrMID4AY3r/?taken-by=theinstanttigers\" target=\"_blank\">The Instant Tigers</a>",
+            "date": "since October 2017"
+          }
+        ]
+      },
+      {
+        "name": "Self Development",
+        "id": "selfDevelopment",
+        "details": [
+          {
+            "description": "<b>Created</b> <a  href=\"https://www.exitroute.org\" target=\"_blank\">exitroute.org</a>: a workshop for on-going LX CX SX design and event projects",
+            "date": "since January 2017"
+          },
+          {
+            "description": "<b>Completed</b> 2,000km unsupported bicycle trip from Berlin to Barcelona in 28 days.",
+            "date": "June 2017"
+          }
+        ]
+      }
+    ]
   }
 }
