@@ -1,4 +1,7 @@
 {
+  "address": {
+    "html": "<address>Fehrbelliner Str. 35<br> 10119 Berlin<br> Germany<br> +49 (0)151 50648881<br><a href=\"mailto:ryan.oshea@exitroute.org\">ryan.oshea@exitroute.org</a></address>"
+  },
   "about": {
     "description": {
       "html": "<p>Ryan O’Shea lives in Berlin, and is learning and development professional with over 10 years of management experience.</p><p>He has recruited, hired, onboarded, trained and developed teachers, service staff and consultants, opened schools and won awards.</p><p>After 10,000 hours of teaching and training, he has forked his career and is learning a new craft...</p>"
@@ -254,7 +257,8 @@
         "name": "Sales",
         "id": "sales",
         "details": [
-          "<b>Responsible</b> for meeting 30% - 50% of centre sales target through B2C contract renewals and referrals."        ]
+          "<b>Responsible</b> for meeting 30% - 50% of centre sales target through B2C contract renewals and referrals."
+        ]
       }
     ]
   },
@@ -272,7 +276,7 @@
         "location": "Glasgow, United Kingdom",
         "outcome": "<b>Learned</b> video production in a foundation course with practical training on video production, including workshops on:",
         "details": [
-          "Lighting, sound recording, camera use, recording formats.", 
+          "Lighting, sound recording, camera use, recording formats.",
           "Location and studio shooting, reconnaissance, scheduling, logistics.",
           "Conceptualising, writing and scripts, storyboarding, editing."
         ]
@@ -286,7 +290,7 @@
         "location": "Glasgow, United Kingdom",
         "outcome": "<b>Learned</b> to act in a Meisner technique acting workshop run by <a href=\"https://www.scotlandsartists.com/sales/robert_parsifal_finch\">Robert Parsifal Finch.</a>",
         "details": [
-          "Imagination, voice and speech, physical training. 3 act play performance.", 
+          "Imagination, voice and speech, physical training. 3 act play performance.",
           "Graduates included <a href=\"https://en.wikipedia.org/wiki/Rory_McCann\">Rory McCann</a>(Sandor Clegane, Game of Thrones)."
         ]
       },
