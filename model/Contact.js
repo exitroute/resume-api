@@ -1,10 +1,12 @@
 const mongoose = require('mongoose');
-const Schema = mongoose.Schema;
+const { Schema } = mongoose;
 
-// set up a mongoose model
-module.exports = mongoose.model('Contact', new Schema({ 
-  name: String, 
-  admin: Boolean,
-  password: String,
-  verificationToken: String
-}));
+
+const ContactSchema = new Schema ({
+  first_name: String,
+  second_name: String,
+  email: String
+});
+
+module.exports = mongoose.model("Contact", ContactSchema);
+

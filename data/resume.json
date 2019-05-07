@@ -25,12 +25,9 @@
     ]
   },
   "skillsAndTools": {
-    "description": {
-      "html": "<p class=\"mb-4\">Since making the decision to develop a third career, Ryan has added a set of <strong>tools</strong> and <strong>skills</strong> need to work on web applications in the MERN stack</p>"
-    },
     "techStack": {
       "description": {
-        "html": ""
+        "html": "<p class=\"mb-4\">Since making the decision to develop a third career, Ryan has added a set of <strong>tools</strong> and <strong>skills</strong> need to work on web applications in the MERN stack</p>"
       },
       "details": [
         {
@@ -70,7 +67,7 @@
     },
     "ryanStack": {
       "description": {
-        "html": "<p class=\"mb-4\">After over 10 years of practice in using his design skills as a manager and a teacher and trainer, Ryan brings the following set of <b>skills</b> to the workplace:</p>"
+        "html": "<p class=\"mb-4\">With over 10 years of practice in using his design skills as a manager, a teacher and a trainer, Ryan brings the following set of <b>skills</b> to the workplace:</p>"
       },
       "details": [
         {
@@ -101,10 +98,8 @@
     }
   },
   "developmentExperience": {
-    "description": {
-      "html": "<p class=\"mb-4\">Learned to develop web apps with HTML5, CSS, Javascript, React, Node, Express and MongoDB. Also worked with static site generators, server-side rendering, APIs and CDNs, Git and agile development methods.</p>"
-    },
-    "subHeading": {
+
+    "slug": {
       "description": {
         "html": ""
       },
@@ -132,15 +127,23 @@
           "definitions": [
             {
               "name": "Responsive Sites",
-              "description": ["Mobile first responsive pages using Bootstrap4"]
+              "description": [
+                "Mobile first responsive pages using Bootstrap4"
+              ]
             },
             {
               "name": "Bookshelf App",
-              "description": ["Inventory and contact apps w/ front-ends in React; and back-ends in Express, Node, Mongo.", "Authentication using JWT and Passport"]
+              "description": [
+                "Inventory and contact apps w/ front-ends in React; and back-ends in Express, Node, Mongo.",
+                "Authentication using JWT and Passport"
+              ]
             },
             {
               "name": "Webscraper",
-              "description": ["Scraped data from websites and saved data to CSV files","User notified with Nodemailer"]
+              "description": [
+                "Scraped data from websites and saved data to CSV files",
+                "User notified with Nodemailer"
+              ]
             }
           ]
         },
@@ -149,15 +152,22 @@
           "definitions": [
             {
               "name": "Responsive Static Site",
-              "description": ["Developed a webpage for my resume using Bootstrap4, SASS and Webpack."]
+              "description": [
+                "Developed a webpage for my resume using Bootstrap4, SASS and Webpack."
+              ]
             },
             {
               "name": "SSR Static Site with Authentication API",
-              "description": ["Developed resume site to be rendered on the sever using vanilla JS", "Added an authentication API to send resume data on request  "]
+              "description": [
+                "Developed resume site to be rendered on the sever using vanilla JS",
+                "Added an authentication API to send resume data on request  "
+              ]
             },
             {
               "name": "Resume ChatBot",
-              "description": ["WIP"]
+              "description": [
+                "WIP"
+              ]
             }
           ]
         }
