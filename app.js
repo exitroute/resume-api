@@ -12,7 +12,8 @@ const port = process.env.PORT || 3000
 mongoose.connect(
   "mongodb://localhost:27017/resume-api",
   {
-    useNewUrlParser: true 
+    useNewUrlParser: true,
+    useFindAndModify: false
   }
 );
 mongoose.connection.on("error", console.error)
