@@ -134,7 +134,7 @@
             {
               "name": "Bookshelf App",
               "description": [
-                "Inventory and contact apps w/ front-ends in React; and back-ends in Express, Node, Mongo.",
+                "Inventory and contact apps w/ front-ends in React; and back-ends in Express, Node, Mongo",
                 "Authentication using JWT and Passport"
               ]
             },
