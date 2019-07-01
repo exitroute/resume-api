@@ -1,9 +1,18 @@
 {
-  "version": 2, 
+  "version": 2,
+  "name": "resume-api", 
   "builds": [
     {
+      "src": "*.html",
+      "use": "@now/static"
+    },
+    {
       "src": "*.js",
-      "use": "@now/node-server"
+      "use": "@now/node"
     }
+  ],
+  "routes": [
+    { "src": "/", "dest": "/app.js" },
+    { "src": "/auth", "dest": "/app.js" }
   ]
 }
