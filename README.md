@@ -12,31 +12,18 @@ with a static site generator I decide to pause the development of the
 chatbot in favour of developiing an app using **express,** **node,** and 
 **mongo,** and implement **CRUD** methods as per the course curriculum.
 
+## Feature List
 
-This is where the authentication logic for the 
-resume will go
+- users can add contacts and recieve a unique url for that contact
+- users receive a report when the recipient of the url lands on the site 
+- users can manage the contacts
 
-URLSearchParams
+## Learned 
 
-TODO
+- about planning and the importance of user stories
+- how to deploy using Now from Zeit 
+- importance of documentation when leaving a project for several weeks 
 
-Add packages
-Add file and folders
+## Status
 
-/controllers 
-  authentication.js
-    -> functions: authenication, newUser
-    save to database
-
-/helpers
-  validateToken.js
-
-/routes 
-  index.js -> public routes
-  auth.js -> authenticate, newUser
-
-/model
-  User.js
-
-/data
-  resume.json
+Deployed and enhancements pending.
