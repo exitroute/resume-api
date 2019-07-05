@@ -4,13 +4,14 @@ const bodyParser = require("body-parser");
 const logger = require('morgan');
 const cors = require("cors");
 
+require("dotenv").config({ path: "./.env" });
 
 const app = express();
 
 const port = process.env.PORT || 3000
 
 mongoose.connect(
-  "mongodb://localhost:27017/resume-api",
+  process.env.DB_URL,
   {
     useNewUrlParser: true,
     useFindAndModify: false
