@@ -8,7 +8,7 @@
     },
     {
       "src": "*.js",
-      "use": "@now/node"
+      "use": "@now/node@canary"
     }
   ],
   "routes": [
