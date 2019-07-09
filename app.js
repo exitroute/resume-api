@@ -10,11 +10,11 @@ const app = express();
 
 const port = process.env.PORT || 3000;
 
-mongoose.connect(process.env.DB_URL, {
-  useNewUrlParser: true,
-  useFindAndModify: false
-});
-mongoose.connection.on("error", console.error);
+// mongoose.connect(process.env.DB_URL, {
+//   useNewUrlParser: true,
+//   useFindAndModify: false
+// });
+// mongoose.connection.on("error", console.error);
 
 app.use(cors());
 app.use(bodyParser.json());
