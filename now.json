@@ -13,6 +13,12 @@
   ],
   "routes": [
     { "src": "/", "dest": "/app.js" },
-    { "src": "/auth", "dest": "/app.js" }
+    { 
+      "src": "/auth",
+      "headers": {
+        "Access-Control-Allow-Origin": "*"
+      }, 
+      "dest": "/app.js" 
+    }
   ]
 }
