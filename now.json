@@ -8,7 +8,7 @@
     },
     {
       "src": "*.js",
-      "use": "@now/node-server@0.4.26"
+      "use": "@now/node@canary"
     }
   ],
   "routes": [
