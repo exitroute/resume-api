@@ -1,5 +1,3 @@
-const jwt = require("jsonwebtoken");
-const uuidv4 = require("uuid/v4");
 const bcrypt = require("bcrypt");
 const saltRounds = 10;
 const salt = bcrypt.genSaltSync(saltRounds);
