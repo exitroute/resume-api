@@ -10,6 +10,7 @@ const app = express();
 
 const port = process.env.PORT || 3000;
 
+// TODO [ 1 ] instantiate and add DB
 // mongoose.connect(process.env.DB_URL, {
 //   useNewUrlParser: true,
 //   useFindAndModify: false
